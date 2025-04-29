@@ -13,17 +13,18 @@ Problemin, tüm olasılıkların değerlendirilip en iyi sonucun bulunması şek
 # Kullanılan Araç:
 Python,Visual Studio code
 # Örnek Çıktı:
-```python
+
 is_sureleri = [
     [2, 10],
     [8, 16],
     [4, 6]
-]
+]  
 
 gecis_maliyetleri = [
     [1, 2],
     [5, 2]
-]
+]  
+![image](https://github.com/user-attachments/assets/a06a7fc9-23cb-4d92-906a-5a64c017859f)
 
-![Ekran görüntüsü 2025-04-29 182730](https://github.com/user-attachments/assets/0461fe1d-6239-4fdb-bd39-0e37c4d1695f)
+
 
